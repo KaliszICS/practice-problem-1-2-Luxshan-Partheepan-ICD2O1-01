@@ -15,7 +15,7 @@ def q2():
 def q3():
   big_number = 21
   small_number = 4
-  print(big_number / small_number) 
+  print(big_number // small_number) 
 
 def q4():
   big_decimal = 6.3
@@ -38,7 +38,7 @@ def q6():
 def q7():
   a_number = 7
   another_number = 2
-  print( a_number // another_number)
+  print( a_number % another_number)
 
 
 
